@@ -1,2 +1,2 @@
 # es6_start
-demo of es6 
+demo of es6  
